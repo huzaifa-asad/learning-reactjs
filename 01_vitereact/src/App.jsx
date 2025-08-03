@@ -1,9 +1,10 @@
 import Name from "./name"
 
 function App() {
+  const username = "huzaifa"
   return (
     <>
-    <h2>learn react</h2>
+    <h2>Hello {username} </h2>
 
     <Name/>
     
