@@ -35,7 +35,7 @@ export default function Footer() {
                             <ul className="text-gray-500 font-medium">
                                 <li className="mb-4">
                                     <a
-                                        href="https://github.com/hiteshchoudhary"
+                                        href="https://github.com/huzaifazz"
                                         className="hover:underline"
                                         target="_blank"
                                         rel="noreferrer"
@@ -44,8 +44,8 @@ export default function Footer() {
                                     </a>
                                 </li>
                                 <li>
-                                    <Link to="/" className="hover:underline">
-                                        Discord
+                                    <Link to="https://x.com/huzaifaasadz" className="hover:underline">
+                                        Twitter
                                     </Link>
                                 </li>
                             </ul>
@@ -70,14 +70,14 @@ export default function Footer() {
                 <hr className="my-6 border-gray-200 sm:mx-auto lg:my-8" />
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-gray-500 sm:text-center">
-                        © 2023
+                        © 2025
                         <a href="https://hiteshchoudhary.com/" className="hover:underline">
-                            hiteshchoudhary
+                            Huzaifazz
                         </a>
                         . All Rights Reserved.
                     </span>
                     <div className="flex mt-4 space-x-5 sm:justify-center sm:mt-0">
-                        <Link to="#" className="text-gray-500 hover:text-gray-900">
+                        <Link to="https://facebook.com/khuzaifaasad.khuzaifa" className="text-gray-500 hover:text-gray-900">
                             <svg
                                 className="w-4 h-4"
                                 aria-hidden="true"
@@ -105,7 +105,7 @@ export default function Footer() {
                             </svg>
                             <span className="sr-only">Discord community</span>
                         </Link>
-                        <Link to="#" className="text-gray-500">
+                        <Link to="https://x.com/huzaifaasadz" className="text-gray-500">
                             <svg
                                 className="w-4 h-4"
                                 aria-hidden="true"
@@ -121,7 +121,7 @@ export default function Footer() {
                             </svg>
                             <span className="sr-only">Twitter page</span>
                         </Link>
-                        <Link to="#" className="text-gray-500">
+                        <Link to="https://github.com/huzaifazz" className="text-gray-500">
                             <svg
                                 className="w-4 h-4"
                                 aria-hidden="true"
